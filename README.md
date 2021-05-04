@@ -5,21 +5,21 @@ We will predict how severe insurance claims will be for All State. We accomplish
 
 # Project Highlights
 
-    Exploratory data analysis to understand the Allstate insurance claim dataset
+   1.Exploratory data analysis to understand the Allstate insurance claim dataset
 
-    Analyzing 5 point summary and studying data distribution for categorical variables
+   2.Analyzing 5 point summary and studying data distribution for categorical variables
 
-    Handling missing values for categorical and continuous variables
+   3.Handling missing values for categorical and continuous variables
 
-    Outlier treatment with visual techniques (Box-Plots)
+   4.Outlier treatment with visual techniques (Box-Plots)
     
-    Use of Pickle file format to store and load models
+   5.Use of Pickle file format to store and load models
 
-    Feature selection and elimination using Correlation, Constant Variance and Chi-Square statistical tests
+   6.Feature selection and elimination using Correlation, Constant Variance and Chi-Square statistical tests
 
-    Use of ensemble Machine Learning algorithms
+   7.Use of ensemble Machine Learning algorithms
 
-    Hyper-parameter tuning using Sklearn functions
+   8.Hyper-parameter tuning using Sklearn functions
 
-    Model deployment creating FlaskAPI
+   9.Model deployment creating FlaskAPI
 
